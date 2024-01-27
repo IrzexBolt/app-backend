@@ -1,0 +1,19 @@
+{
+  "name": "azorp",
+  "version": "1.0.0",
+  "description": "a basic app to be deployed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "azorp"
+  ],
+  "author": "Muhammad Irteza",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
